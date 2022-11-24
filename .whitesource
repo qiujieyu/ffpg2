@@ -7,7 +7,7 @@
   },
   "scanSettingsSAST": {
     "enableSAST": "true",
-    "enableRemediation": "false"
+    "enableRemediation": "true"
     "snippetSize": "10"
   },
   "checkRunSettings": {

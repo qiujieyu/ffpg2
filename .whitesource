@@ -1,0 +1,20 @@
+{
+  "scanSettings": {
+    "configMode": "AUTO",
+	  "configExternalURL": "",
+	  "projectToken": "",
+	  "baseBranches": []
+  },
+  "scanSettingsSAST": {
+    "enableSAST": "true",
+    "enableRemediation": "false"
+    "snippetSize": "10"
+  },
+  "checkRunSettings": {
+    "displayMode": "diff",
+    "vulnerableCheckRunConclusionLevel": "failure"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW"
+  }
+}
